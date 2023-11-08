@@ -1,5 +1,5 @@
 # ArtDockGuestbook
-## -Infrastructure Bridging Art World Transparently-
+## Infrastructure Bridging Art World Transparently
 ### Open source project for decentralized Guestbooks in art exhibitions
 ArtDockGuestbook is an open-source, guestbook platform for setting up a system of throwing money to art exhibitions and building relationships between artists and viewers.
 
