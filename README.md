@@ -1,5 +1,6 @@
-# ArtDockGuestbook　-Infrastructure Bridging Art World Transparently-
-## Open source project for decentralized Guestbooks in art exhibitions
+# ArtDockGuestbook
+## -Infrastructure Bridging Art World Transparently-
+### Open source project for decentralized Guestbooks in art exhibitions
 ArtDockGuestbook is an open-source, guestbook platform for setting up a system of throwing money to art exhibitions and building relationships between artists and viewers.
 
 Organisers can register their exhibitions, install a system of viewer donations, and build relationships with viewers while distributing badges to participants. Viewers can collect participation badges while viewing the exhibition and throwing money to the artist.
